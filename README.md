@@ -1,0 +1,1 @@
+# a-program-to-print-table-of-the-given-number-in-python-
